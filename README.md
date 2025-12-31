@@ -28,7 +28,7 @@ This project involved building a full-scale Business Intelligence solution to an
 ---
 
 ## 📈 Project 2: Tableau - Retail Data Storytelling - Dashboard
-### [View Project on Tableau Public](https://public.tableau.com/views/SaleswithConnections/CustomerDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) / [Detailed explanation]()
+### [View Project on Tableau Public](https://public.tableau.com/views/SaleswithConnections/CustomerDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) / [Detailed Explanation](https://github.com/Sherif2002Y/Dashboards-Power-BI---Tableau---Excel-/blob/main/Retail%20Data%20Storytelling%20-%20Dashboard/READMe.md)
 
 ### **Description**
 An applied Tableau project focused on transforming raw retail data into interactive dashboards that highlight sales performance, customer behavior, and key business insights through data storytelling.
