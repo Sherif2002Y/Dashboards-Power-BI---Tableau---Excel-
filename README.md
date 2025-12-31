@@ -7,16 +7,23 @@ This repository contains my projects across **Power BI**, **Tableau**, and **Exc
 ---
 
 ## 📊 Project 1: Power BI - Sales Activities Dashboard
-### [View Project Screenshots](./PowerBI_Screenshots/)
+### [View Project Screenshots](https://github.com/Sherif2002Y/Dashboards-Power-BI---Tableau---Excel-/tree/main/Sales%20Dashboard%20%26%20RFM%20Model/Screenshots)
 
-**Description:** A high-level executive dashboard designed to track death tolls and causes across the USA, UK, and France. This project focuses on identifying trends and providing a comparative analysis of public health data.
+### **Description**
+This project involved building a full-scale Business Intelligence solution to analyze sales performance and customer loyalty. I transformed a disorganized dataset into a structured **Star Schema** model, allowing for advanced **RFM (Recency, Frequency, Monetary) segmentation**. The final result is a series of interactive dashboards that provide "Actionable Insights" for marketing and sales strategy.
 
-**Key Technical Skills:**
-* **DAX Formulas:** Created custom measures for total death counts and YoY growth.
-* **Power Query:** Cleaned and transformed raw global datasets.
-* **UI/UX Design:** Implemented a modern dark-themed interface with intuitive slicers for user-driven exploration.
+### **Key Technical Skills**
+* **Data Modeling:** Designed and implemented a **Star Schema** architecture with 1:Many relationships to ensure data integrity and high-speed reporting.
+* **RFM Segmentation:** Developed a behavioral scoring model to categorize customers into 11 actionable segments (e.g., Champions, At Risk, Lost).
+* **Advanced DAX:** Authored complex measures for Time-Intelligence (YoY Growth), Customer Lifetime Value (CLV), Churn Rate, and Retention metrics.
+* **ETL & Data Cleaning:** Used **Power Query (M Language)** to clean, pivot, and merge raw sales data, handling inconsistencies and null values.
+* **Forecasting & Analytics:** Integrated "What-If" parameters to simulate sales forecasting and used Decomposition Trees for root-cause analysis.
 
-**Tools Used:** Power BI Desktop, Power Query.
+### **Tools Used**
+* **Power BI Desktop:** For data modeling, DAX authoring, and visualization.
+* **Power Query:** For the extraction, transformation, and loading (ETL) process.
+* **Star Schema:** For optimized data architecture.
+* **Microsoft Azure:** Integration for map-based geographic analysis.
 
 ---
 
