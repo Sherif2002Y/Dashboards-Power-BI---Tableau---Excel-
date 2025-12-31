@@ -59,5 +59,5 @@ Tableau Desktop, Tableau Public.
 ---
 
 ## 📫 Contact Me
-* **LinkedIn:** [Your Name](https://www.linkedin.com/in/sherif-yasser-44950127b/)
+* **LinkedIn:** [Sherif Yasser](https://www.linkedin.com/in/sherif-yasser-44950127b/)
 * **Email:** sherifyasser19@gmail.com
