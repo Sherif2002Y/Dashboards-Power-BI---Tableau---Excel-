@@ -1,4 +1,4 @@
-# Project 2: Tableau – Geographic & Retail Data Storytelling
+# Project 2: Tableau – Retail Data Storytelling Dashboard
 
 🔗 **Live Interactive Dashboard (Tableau Public):**  
 👉 [View Project on Tableau Public](https://public.tableau.com/views/SaleswithConnections/CustomerDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
@@ -88,3 +88,4 @@ The objective is to transform raw retail data into an interactive, insight-drive
 1. Clone the repository  
 2. Review dashboard screenshots in the `/Screenshots` folder  
 3. Explore the full interactive experience via the Tableau Public link above
+
