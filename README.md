@@ -56,5 +56,5 @@ This project involved building a full-scale Business Intelligence solution to an
 ---
 
 ## 📫 Contact Me
-* **LinkedIn:** [Your Name](Your_Link)
-* **Email:** yourname@email.com
+* **LinkedIn:** [Your Name](https://www.linkedin.com/in/sherif-yasser-44950127b/)
+* **Email:** sherifyasser19@gmail.com
