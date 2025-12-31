@@ -45,7 +45,7 @@ Tableau Desktop, Tableau Public.
 ---
 
 ## 📗 Project 3: Excel - Advanced Data Sales Performace & Customer Analytics (RFM) Dashboard
-### [View Project]() / [Screenshots]()
+### [View Project](https://github.com/Sherif2002Y/Dashboards-Power-BI---Tableau---Excel-/tree/main/Excel%20Sales%20%26%20Customer%20Analytics%20(RFM)%20Dashboard) / [Screenshots](https://github.com/Sherif2002Y/Dashboards-Power-BI---Tableau---Excel-/tree/main/Excel%20Sales%20%26%20Customer%20Analytics%20(RFM)%20Dashboard/Screenshots)
 
 
 ### **Description**
