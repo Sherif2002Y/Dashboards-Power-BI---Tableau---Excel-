@@ -1,7 +1,7 @@
 # Project 2: Tableau – Geographic & Retail Data Storytelling
 
 🔗 **Live Interactive Dashboard (Tableau Public):**  
-👉 https://public.tableau.com/profile/YOUR_PROFILE_NAME/viz/YOUR_PROJECT_NAME
+👉 [View Project on Tableau Public](https://public.tableau.com/views/SaleswithConnections/CustomerDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -21,8 +21,8 @@ The objective is to transform raw retail data into an interactive, insight-drive
 
 ## Dashboards Preview
 
-### 📊 Sales Dashboard
-![Sales Dashboard](images/sales_dashboard.png)
+### 📊 Sales Performance Dashboard
+![Sales Dashboard](https://github.com/Sherif2002Y/Dashboards-Power-BI---Tableau---Excel-/blob/main/Retail%20Data%20Storytelling%20-%20Dashboard/Screenshots/Sales%20Performance%20Page.png)
 
 **Highlights:**
 - Total Sales, Profit, and Quantity KPIs vs Previous Year
@@ -32,7 +32,7 @@ The objective is to transform raw retail data into an interactive, insight-drive
 ---
 
 ### 👥 Customer Dashboard
-![Customer Dashboard](images/customer_dashboard.png)
+![Customer Dashboard](https://github.com/Sherif2002Y/Dashboards-Power-BI---Tableau---Excel-/blob/main/Retail%20Data%20Storytelling%20-%20Dashboard/Screenshots/Customers%20Page.png)
 
 **Highlights:**
 - Total Orders and Total Customers KPIs
@@ -86,5 +86,5 @@ The objective is to transform raw retail data into an interactive, insight-drive
 ## 📌 How to Use This Repository
 
 1. Clone the repository  
-2. Review dashboard screenshots in the `/images` folder  
-3. Explore the full interactive experience via Tableau Public link above
+2. Review dashboard screenshots in the `/Screenshots` folder  
+3. Explore the full interactive experience via the Tableau Public link above
