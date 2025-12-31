@@ -27,7 +27,7 @@ This project involved building a full-scale Business Intelligence solution to an
 
 ---
 
-## 📈 Project 2: Tableau - Geographic Data Storytelling
+## 📈 Project 2: Tableau - Retail Data Storytelling - Dashboard
 ### [View Project on Tableau Public](https://public.tableau.com/views/SaleswithConnections/CustomerDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### **Description**
