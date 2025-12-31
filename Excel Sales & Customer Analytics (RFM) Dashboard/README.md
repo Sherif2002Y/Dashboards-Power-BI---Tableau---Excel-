@@ -48,7 +48,8 @@ The dashboard doesn't just show data; it suggests strategy:
 ---
 
 ## 📂 How to Explore
-1.  **View Report:** [Link to view the dashboard]()
+1.  **PDF Setup to create final dashboard:** [You can find the at this link](https://github.com/Sherif2002Y/Dashboards-Power-BI---Tableau---Excel-/blob/main/Excel%20Sales%20%26%20Customer%20Analytics%20(RFM)%20Dashboard/Report/Setup%20-%201.pdf).
+1.  **View Report:** [Link to view the dashboard](https://github.com/Sherif2002Y/Dashboards-Power-BI---Tableau---Excel-/blob/main/Excel%20Sales%20%26%20Customer%20Analytics%20(RFM)%20Dashboard/Report/Excel%20Sales%20%26%20Customer%20Analytics%20(RFM)%20Dashboard.xlsx)
 2.  **Screenshots:** Check the `/Screenshots` folder in this repo.
 
 ---
@@ -56,5 +57,6 @@ The dashboard doesn't just show data; it suggests strategy:
 
 ## 📫 Connect with me
 * **LinkedIn:** [Sherif Yasser](https://www.linkedin.com/in/sherif-yasser-44950127b/)
+
 
 * **Email:** sherifyasser19@gmail.com
