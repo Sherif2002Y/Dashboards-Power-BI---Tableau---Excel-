@@ -44,7 +44,7 @@ Tableau Desktop, Tableau Public.
 
 ---
 
-## 📗 Project 3: Excel - Advanced Data Processing & Modeling
+## 📗 Project 3: Excel - Advanced Data Sales Performace & Customer Analytics (RFM) Dashboard
 ### [View Project]() / [Screenshots]()
 
 
