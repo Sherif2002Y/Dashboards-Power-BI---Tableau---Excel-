@@ -1,4 +1,4 @@
-# Dashboards-Power-BI---Tableau---Excel-
+# Dashboards: Power BI - Tableau - Excel
 
 # Data Analytics Portfolio
 
@@ -28,16 +28,19 @@ This project involved building a full-scale Business Intelligence solution to an
 ---
 
 ## 📈 Project 2: Tableau - Geographic Data Storytelling
-### [View Project on Tableau Public](YOUR_TABLEAU_LINK_HERE)
+### [View Project on Tableau Public](https://public.tableau.com/views/SaleswithConnections/CustomerDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-**Description:** This project focuses on the visual "story" of the data. Using Tableau’s mapping capabilities, I transformed raw data into a narrative that highlights geographic disparities and regional performance.
+### **Description**
+An applied Tableau project focused on transforming raw retail data into interactive dashboards that highlight sales performance, customer behavior, and key business insights through data storytelling.
 
-**Key Technical Skills:**
-* **LOD Expressions:** Calculated complex data points independent of the view level.
-* **Geospatial Mapping:** Built interactive heat maps to visualize data density.
-* **Interactive Story Points:** Created a guided walkthrough for the end-user.
+### **Key Technical Skills**
+* **Calculated Fields & YoY Analysis:** Built custom metrics to compare current performance with previous years.
+* **LOD Expressions:** Controlled calculation granularity to ensure accurate KPIs regardless of filters.
+* **Data Modeling (Fact & Dimension Tables):** Organized data for performance, consistency, and scalability.
+* **Dashboard UX & Data Storytelling:** Presented insights clearly to support fast, data-driven decisions.
 
-**Tools Used:** Tableau Desktop, Tableau Public.
+### **Tools Used**
+Tableau Desktop, Tableau Public.
 
 ---
 
