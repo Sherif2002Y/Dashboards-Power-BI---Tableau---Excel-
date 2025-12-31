@@ -7,7 +7,7 @@ This repository contains my projects across **Power BI**, **Tableau**, and **Exc
 ---
 
 ## 📊 Project 1: Power BI - Sales Activities Dashboard
-### [View Project Screenshots](https://github.com/Sherif2002Y/Dashboards-Power-BI---Tableau---Excel-/tree/main/Sales%20Dashboard%20%26%20RFM%20Model/Screenshots)
+### [View Project](https://github.com/Sherif2002Y/Dashboards-Power-BI---Tableau---Excel-/blob/main/Sales%20Dashboard%20%26%20RFM%20Model/READMe.md) / [Screenshots](https://github.com/Sherif2002Y/Dashboards-Power-BI---Tableau---Excel-/tree/main/Sales%20Dashboard%20%26%20RFM%20Model/Screenshots)
 
 ### **Description**
 This project involved building a full-scale Business Intelligence solution to analyze sales performance and customer loyalty. I transformed a disorganized dataset into a structured **Star Schema** model, allowing for advanced **RFM (Recency, Frequency, Monetary) segmentation**. The final result is a series of interactive dashboards that provide "Actionable Insights" for marketing and sales strategy.
@@ -28,7 +28,7 @@ This project involved building a full-scale Business Intelligence solution to an
 ---
 
 ## 📈 Project 2: Tableau - Retail Data Storytelling - Dashboard
-### [View Project on Tableau Public](https://public.tableau.com/views/SaleswithConnections/CustomerDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) / [Detailed Explanation](https://github.com/Sherif2002Y/Dashboards-Power-BI---Tableau---Excel-/blob/main/Retail%20Data%20Storytelling%20-%20Dashboard/READMe.md)
+### [View Project](https://github.com/Sherif2002Y/Dashboards-Power-BI---Tableau---Excel-/blob/main/Retail%20Data%20Storytelling%20-%20Dashboard/READMe.md) / [View Project on Tableau Public](https://public.tableau.com/views/SaleswithConnections/CustomerDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### **Description**
 An applied Tableau project focused on transforming raw retail data into interactive dashboards that highlight sales performance, customer behavior, and key business insights through data storytelling.
