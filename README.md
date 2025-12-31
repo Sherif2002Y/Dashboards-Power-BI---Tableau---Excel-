@@ -45,16 +45,26 @@ Tableau Desktop, Tableau Public.
 ---
 
 ## 📗 Project 3: Excel - Advanced Data Processing & Modeling
-### [Download Excel File](./Excel_Files/)
+### [View Project]() / [Screenshots]()
 
-**Description:** A robust Excel-based tool developed to process and visualize business data without heavy software. This project demonstrates the power of Excel for automated data modeling and reporting.
 
-**Key Technical Skills:**
-* **Pivot Tables & Charts:** Dynamic summaries of large datasets.
-* **Advanced Formulas:** Used `XLOOKUP`, `INDEX/MATCH`, and `IFS` for automated logic.
-* **Data Cleaning:** Used Power Query within Excel to automate the ETL (Extract, Transform, Load) process.
+### **Description**
+This project involved building a full-scale Business Intelligence solution to analyze sales performance and customer loyalty. I transformed a disorganized dataset into a structured **Star Schema** model, allowing for advanced **RFM (Recency, Frequency, Monetary) segmentation**. The final result is a series of interactive dashboards that provide "Actionable Insights" for marketing and sales strategy.
 
-**Tools Used:** Microsoft Excel (Advanced).
+### **Key Technical Skills**
+* **Power Query (M):** For automated data cleaning and transformation.
+* **Data Modeling:** Designed and implemented a **Star Schema** architecture with 1:Many relationships to ensure data integrity and high-speed reporting.
+* **RFM Segmentation:** Developed a behavioral scoring model to categorize customers into 11 actionable segments (e.g., Champions, At Risk, Lost).
+* **ETL & Data Cleaning:** Used **Power Query (M Language)** to clean, pivot, and merge raw sales data, handling inconsistencies and null values.
+
+### **Tools Used**
+* **Microsoft Excel:** For data modeling, DAX authoring, and visualization.
+* **Power Query:** For the extraction, transformation, and loading (ETL) process.
+* **Star Schema:** For optimized data architecture.
+* **Microsoft Azure:** Integration for map-based geographic analysis.
+
+---
+
 
 ---
 
